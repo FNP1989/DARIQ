@@ -1,7 +1,7 @@
 # Gold Sniper Official Pricing Configuration
-P1_1M=10
-P1_3M=30
-P1_1Y=110
+P1_1M=20
+P1_3M=60
+P1_1Y=220
 P1_LIFE=0
 P2_1M=30
 P2_3M=90
